@@ -1,0 +1,17 @@
+Git init - comando utilizado para criar um repositorio
+
+Ls -a - comando utilizado para visualizar arquivos ocultos
+
+Git commit -m "commit inicial" - comando utilizado para comitar as alterações para o repositório, ou seja,  basta utilizar o comando git commit -m "mensagem de exemplo".
+
+Git status - comando utilizado para  chegar o estado atual do repositorio.
+
+Git add -  comando utilizado adiciona um arquivo já existencia em uma pasta.
+
+Git add . -  comando utilizado para pegar tudo que já foi modificado no repositorio e comitar.
+
+git remote add origin - comando utilizado para ligar o repositório local com o repositório remoto.
+
+Git push - comando utilizado para enviar de fato o repositório local para o repositório remoto.
+
+Git pull origin  master - comando utilizado para baixar um repositorio remoto
